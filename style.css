@@ -1,0 +1,29 @@
+.title{
+    font-weight: bolder;
+    font-family: 'Courier New', Courier, monospace, sans-serif;
+    color: rgb(0, 134, 94);
+    font-size: 3rem;
+}
+
+.title.orange{
+    color: orange;
+}
+
+.title.pavbhaji{
+    color: rgb(199, 30, 0);
+}
+.title.thaitea{
+    color: rgb(163, 163, 163);
+}
+
+.description{
+    font-weight: 800;
+    font-size: 2rem;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.para{
+    background-color: antiquewhite;
+    font-size: medium;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
